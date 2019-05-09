@@ -1,0 +1,77 @@
+
+
+
+/* index css */
+.container{
+    background-color: palevioletred;
+    width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color: beige;
+}
+
+.CTA{
+ text-align: center;
+}
+
+/* game css */
+
+body{
+    background-color: aquamarine;
+}
+
+header{
+    border: 3px solid black;
+    height: 400px;
+    widows: 300px;
+    margin:0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+.words{
+    border: 3px solid black;
+    font-size:100px;
+    height: 150px;
+    widows: 300px;
+    margin:0 auto;
+    width: 80%;
+    text-align: center;
+}
+ 
+.pic1{
+    height:150px;
+    width:150px;
+    float:left;
+}
+/* /* I want this to be a pop up  */
+.correctGuess{
+    background-color: beige;
+    border: 3px solid black;
+    font-size:30px;
+    height: 150px;
+    widows: 300px;
+    margin:0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+.words{
+    background-color: beige;
+}
+  
+.wrongGuess{
+    background-color: beige;
+    border: 3px solid black;
+    font-size:30px;
+    height: 150px;
+    widows: 300px;
+    margin:0 auto;
+    width: 80%;
+    text-align: center;
+}
