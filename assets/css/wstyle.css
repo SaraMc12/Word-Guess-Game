@@ -15,6 +15,11 @@ header{
     background-color: beige;
 }
 
+.pic2{
+    height:250px;
+    width:300px;
+}
+
 .CTA{
  text-align: center;
 }
@@ -34,21 +39,15 @@ header{
     text-align: center;
 }
 
-.words{
-    border: 3px solid black;
-    font-size:100px;
-    height: 150px;
-    widows: 300px;
-    margin:0 auto;
-    width: 80%;
-    text-align: center;
-}
+
  
 .pic1{
     height:150px;
     width:150px;
     float:left;
 }
+
+
 /* /* I want this to be a pop up  */
 .correctGuess{
     background-color: beige;
@@ -57,7 +56,7 @@ header{
     height: 150px;
     widows: 300px;
     margin:0 auto;
-    width: 80%;
+    width: 50%;
     text-align: center;
 }
 
@@ -72,6 +71,6 @@ header{
     height: 150px;
     widows: 300px;
     margin:0 auto;
-    width: 80%;
+    width: 50%;
     text-align: center;
 }
