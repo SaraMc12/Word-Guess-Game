@@ -8,8 +8,17 @@
 
 }
 
+.container1{
+    background-color: beige
+}
 header{
     background-color: beige;
+}
+
+.judy{
+    height: 400px;
+    width:400px;
+    float:right, 50%; 
 }
 
 .pic2{
@@ -19,6 +28,11 @@ header{
 
 .CTA{
  text-align: center;
+}
+
+.container2{
+    text-align: center;
+
 }
 
 /* game css */
